@@ -9,12 +9,12 @@
 
 | 製品名 | 接続方式 | 言語 | リポジトリ | 最新リリース |
 |:--------|:-----------|:------|:----------------|:--------------|
-| **TR3XM** | LAN | Python | [TR3_LAN_Python](https://github.com/TamaruNorio/TR3_LAN_Python) | ✅ v0.1.0 |
-| **TR3XM** | USB | Python | [TR3_USB_Python](https://github.com/TamaruNorio/TR3_USB_Python) | ✅ v1.0.0 |
-| **TR3XM** | USB | C++ | [TR3_USB_CPP](https://github.com/TamaruNorio/TR3_USB_CPP) | ✅ v1.0.0 |
 | **UTRシリーズ** | USB | Python | [UTR_USB_Python](https://github.com/TamaruNorio/UTR_USB_Python) | ✅ v1.1.5 |
 | **UTRシリーズ** | LAN | Python | [UTR_LAN_Python](https://github.com/TamaruNorio/UTR_LAN_Python) | ✅ v1.1.0 |
-| **TR3XM** | LAN | C++ | [TR3_LAN_CPP](https://github.com/TamaruNorio/TR3_LAN_CPP) | 🚧 準備中 |
+| **TR3XM** | USB | Python | [TR3_USB_Python](https://github.com/TamaruNorio/TR3_USB_Python) | ✅ v1.0.0 |
+| **TR3XM** | LAN | Python | [TR3_LAN_Python](https://github.com/TamaruNorio/TR3_LAN_Python) | ✅ v0.1.0 |
+| **TR3XM** | USB | C++ | [TR3_USB_CPP](https://github.com/TamaruNorio/TR3_USB_CPP) | ✅ v1.0.0 |
+| **TR3XM** | LAN | C++ | [TR3_LAN_CPP](https://github.com/TamaruNorio/TR3_LAN_CPP) | ✅ v1.0.0 |
 
 ---
 
