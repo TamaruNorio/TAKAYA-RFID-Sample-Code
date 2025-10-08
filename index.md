@@ -24,7 +24,7 @@
   TR3XMシリーズ リーダライタ通信仕様書  
 - [TDR-OTH-PROGRAMMING-103.pdf](https://github.com/TamaruNorio/UTR_USB_Python/blob/main/docs/TDR-OTH-PROGRAMMING-103.pdf)  
   プログラミング仕様書
-- [TDR-MNL-PRC-UTR-116] https://www.product.takaya.co.jp/dcms_media/other/TDR-MNL-PRC-UTR-116.pdf
+- [TDR-MNL-PRC-UTR-116] (https://www.product.takaya.co.jp/dcms_media/other/TDR-MNL-PRC-UTR-116.pdf)  
   UHF版 UTRシリーズ リーダライタ通信仕様書
 
 ---
