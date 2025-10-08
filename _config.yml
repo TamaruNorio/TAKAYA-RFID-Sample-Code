@@ -1,5 +1,5 @@
 title: TAKAYA RFID Sample Code
-description: タカヤ株式会社製RFIDリーダライタをPython/C++で制御するためのサンプルプログラム集。
+description: タカヤ株式会社 RFIDリーダライタのサンプルプログラム集（Python / C++ / LAN / USB対応）
 url: "https://tamarunorio.github.io"
 baseurl: "/TAKAYA-RFID-Sample-Code"
 theme: jekyll-theme-cayman
