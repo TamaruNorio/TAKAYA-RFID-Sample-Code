@@ -20,12 +20,14 @@
 
 ## 📘 関連ドキュメント
 
-- [TDR-MNL-PRCX-110.pdf](https://github.com/TamaruNorio/TR3_LAN_Python/blob/main/docs/TDR-MNL-PRCX-110.pdf)  
-  TR3XMシリーズ リーダライタ通信仕様書  
-- [TDR-OTH-PROGRAMMING-103.pdf](https://github.com/TamaruNorio/UTR_USB_Python/blob/main/docs/TDR-OTH-PROGRAMMING-103.pdf)  
-  プログラミング仕様書
-- [TDR-MNL-PRC-UTR-116] (https://www.product.takaya.co.jp/dcms_media/other/TDR-MNL-PRC-UTR-116.pdf)  
-  UHF版 UTRシリーズ リーダライタ通信仕様書
+- **TR3XMシリーズ リーダライタ通信仕様書（PDF）**  
+  [TDR-MNL-PRCX-110.pdf](https://github.com/TamaruNorio/TR3_LAN_Python/blob/main/docs/TDR-MNL-PRCX-110.pdf)
+
+- **UTRシリーズ（HF版）プログラミング仕様書（PDF）**  
+  [TDR-OTH-PROGRAMMING-103.pdf](https://github.com/TamaruNorio/UTR_USB_Python/blob/main/docs/TDR-OTH-PROGRAMMING-103.pdf)
+
+- **UTRシリーズ（UHF版）リーダライタ通信仕様書（PDF）**  
+  [TDR-MNL-PRC-UTR-116.pdf](https://www.product.takaya.co.jp/dcms_media/other/TDR-MNL-PRC-UTR-116.pdf)
 
 ---
 
