@@ -1,6 +1,6 @@
 # TAKAYA RFID Sample Code
 
-タカヤ株式会社のRFIDリーダライタを **Python / C++ / LAN / USB** で制御するためのサンプルプログラムをまとめています。  
+タカヤ株式会社のRFIDリーダライタを **Python / C++ ** で制御するためのサンプルプログラムをまとめています。  
 各サンプルはGitHub上で自由にダウンロード・利用可能です。
 
 ---
@@ -24,6 +24,8 @@
   TR3XMシリーズ リーダライタ通信仕様書  
 - [TDR-OTH-PROGRAMMING-103.pdf](https://github.com/TamaruNorio/UTR_USB_Python/blob/main/docs/TDR-OTH-PROGRAMMING-103.pdf)  
   プログラミング仕様書
+- [TDR-MNL-PRC-UTR-116] https://www.product.takaya.co.jp/dcms_media/other/TDR-MNL-PRC-UTR-116.pdf
+  UHF版 UTRシリーズ リーダライタ通信仕様書
 
 ---
 
@@ -42,9 +44,9 @@
 ## 🌐 外部リンク
 
 - [タカヤ株式会社 RFID製品サイト](https://www.product.takaya.co.jp/rfid/)
-- [RWManager ダウンロードページ](https://www.product.takaya.co.jp/rfid/download/)
+- [RWManager ダウンロードページ（要 会員登録）](https://www.product.takaya.co.jp/rfid/download/)
 - [GitHub プロフィールページ](https://github.com/TamaruNorio)
 
 ---
 
-© Takaya Co., Ltd.
+© TAKAYA Corporation
